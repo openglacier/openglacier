@@ -255,3 +255,11 @@ Collaborate.
 Improve.
 
 Resources are valuable because they contribute to the ecosystem, not because they belong to it.
+
+## Synthesis
+
+| Concept | Exists independently of openglacier | Represented in the Workspace | Provides capabilities |
+|----------|-------------------------------------|------------------------------|-----------------------|
+| **Resource** | ✅ Yes | Through an Object | ✅ Yes |
+| **Connector** | ❌ No | ❌ No | ❌ No |
+| **Object** | ❌ No (representation) | ✅ Yes | Reflects the Resource's capabilities |
