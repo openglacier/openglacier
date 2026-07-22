@@ -22,6 +22,8 @@ It must be earned through transparency, consistency and honesty.
 
 Technology should explain itself.
 
+Reality should remain observable.
+
 Users should understand what systems do, why they do it and how they interact.
 
 Trust begins where opacity ends.
@@ -39,6 +41,42 @@ People, organizations, devices, services and artificial intelligence become more
 Communication is not a feature.
 
 It is the foundation.
+
+---
+
+## Reality precedes interpretation
+
+Reality exists independently of the way we choose to observe it.
+
+A Workspace owns its resources.
+
+Resources represent facts, objects, services and information that continue to exist regardless of any application.
+
+Applications do not own reality.
+
+They give meaning to it.
+
+Different applications may organize the same resources around different purposes.
+
+A dashboard highlights.
+
+A planner organizes.
+
+An assistant explains.
+
+A monitoring application observes.
+
+Each reveals a different perspective of the same Workspace.
+
+Applications may evolve.
+
+Applications may disappear.
+
+The Workspace remains.
+
+Meaning belongs to applications.
+
+Reality belongs to the Workspace.
 
 ---
 
@@ -195,5 +233,11 @@ Every protocol.
 Every line of code.
 
 They should all contribute to a future that is more transparent, more sustainable and more respectful of the individuals who depend on technology every day.
+
+Software will evolve.
+
+Technologies will change.
+
+Principles endure.
 
 This is the philosophy that guides the openglacier initiative.
