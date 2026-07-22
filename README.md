@@ -53,6 +53,7 @@ One where trust is earned through transparency.
 - **02 — Philosophy**
 - **03 — Principles**
 - **04 — Glossary**
+- **05 — Axioms**
 
 ### The Ecosystem
 
