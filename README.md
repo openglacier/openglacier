@@ -1,3 +1,6 @@
+## As of Oct. 21st 2026, this content has been moved to https://www.openglacier.org/manifesto.html
+
+
 # openglacier
 
 > *An initiative for healthier digital ecosystems.*
